@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/L1keava"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <a href="https://github.com/L1keava"><img src="mikumiku.webp" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/L1keava">L1keava</a>!</h1>
